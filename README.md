@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there I am Abhishek Kesarwani 👋
 
-<!--
-**abhishekkesrwn/abhishekkesrwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Electronics Engineering(2027) | Full Stack Web Developer | DSA Enthusiast
+Building StayFinder [Live Link Soon] 
 
+## Tech Stack
+Javascript • Node.js • Express.js • MongoDb • JAVA(for DSA)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently 
+• Solving DSA on Leetcode, GFG - 420+ problems (focus : Graphs, DP, Binary Search)
+• Building a booking conflict system with oopitmistic locking
+
+## Pinned Projects
+• StayFinder - Full Stack property booling platform( MEN + Maps + Image Upload+ Login)
