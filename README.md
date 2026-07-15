@@ -11,4 +11,4 @@ Javascript • Node.js • Express.js • MongoDB • Java (for DSA)
 • Building a booking conflict system with opitmistic locking
 
 ## Pinned Projects
-• StayFinder - Full Stack property booking platform( MEN + Maps + Image Upload+ Login)
+• StayFinder - Full Stack property listing platform( MEN + Maps + Image Upload+ Login)
