@@ -2,7 +2,7 @@
 
 B.Tech Electronics Engineering (2027) | Full Stack Web Developer | DSA Enthusiast
 Building StayFinder link :  https://stayfinder-npql.onrender.com
-
+⚠️ Hosted on Render free tier — first load may take ~30 seconds (cold start)
 ## Tech Stack
 Javascript • Node.js • Express.js • MongoDB • Java (for DSA)
 
